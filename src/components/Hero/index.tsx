@@ -19,8 +19,9 @@ const Hero = () => {
                 Your Vision, Our Code.
                 </h1>
                 <p className="mx-auto mb-9 max-w-[600px] text-base font-medium text-white sm:text-lg sm:leading-[1.44]">
-                Your website should be as unique as your business. At grwm, we turn your wildest ideas into digital masterpieces. Forget cookie-cutter templates; we craft custom sites that make your competitors jealous. Ready to stand out? Let's make your vision our code.
+                Your website should be as unique as your business. At grwm, we turn your wildest ideas into digital masterpieces. Forget cookie-cutter templates, we craft custom sites that make your competitors jealous. Ready to stand out? Let&apos;s make your vision our code.
                 </p>
+
                 <ul className="mb-10 flex flex-wrap items-center justify-center gap-5">
                   <li>
                     <Link
