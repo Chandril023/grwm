@@ -8,9 +8,8 @@ const Features = () => {
       <div className="container">
         <SectionTitle
           subtitle="Features"
-          title="Main Features Of Play"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
-        />
+          title="Know us better"
+          paragraph="Crafting bespoke websites tailored to elevate your brand's digital presence, blending creativity with cutting-edge technology for unmatched online success."/>
 
         <div className="-mx-4 mt-12 flex flex-wrap lg:mt-20">
           {featuresData.map((feature, i) => (

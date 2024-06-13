@@ -64,14 +64,14 @@ const Header = () => {
                 {pathUrl !== "/" ? (
                   <>
                     <Image
-                      src={`/images/logo/logo.svg`}
+                      src={`/images/logo/2.png`}
                       alt="logo"
                       width={240}
                       height={30}
                       className="header-logo w-full dark:hidden"
                     />
                     <Image
-                      src={`/images/logo/logo-white.svg`}
+                      src={`/images/logo/1.png`}
                       alt="logo"
                       width={240}
                       height={30}
@@ -83,8 +83,8 @@ const Header = () => {
                     <Image
                       src={`${
                         sticky
-                          ? "/images/logo/logo.svg"
-                          : "/images/logo/logo-white.svg"
+                          ? "/images/logo/2.png"
+                          : "/images/logo/1.png"
                       }`}
                       alt="logo"
                       width={140}
@@ -92,7 +92,7 @@ const Header = () => {
                       className="header-logo w-full dark:hidden"
                     />
                     <Image
-                      src={"/images/logo/logo-white.svg"}
+                      src={"/images/logo/1.png"}
                       alt="logo"
                       width={140}
                       height={30}

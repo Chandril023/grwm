@@ -4,7 +4,7 @@ export const pricingData: Price[] = [
   {
     id: "price_1NQk5TLtGdPVhGLecVfQ7mn0",
     unit_amount: 100 * 100,
-    nickname: "Basic",
+    nickname: "Personal",
     offers: [
       "1 User",
       "All UI components",
@@ -30,7 +30,7 @@ export const pricingData: Price[] = [
   {
     id: "price_1NQk4eLtGdPVhGLeZsZDsCNz",
     unit_amount: 300 * 100,
-    nickname: "Business",
+    nickname: "Enterprise",
     offers: [
       "10 Users",
       "All UI components",
