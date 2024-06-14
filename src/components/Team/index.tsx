@@ -69,11 +69,10 @@ const Team = () => {
         </div>
 
         <div className="hidden lg:flex flex-wrap justify-center -mx-4">
-          
           {teamData.map((team, i) => (
-              <div key={i}>
-              <SingleTeam team={team} />
-              </div>
+            
+              <SingleTeam  key={i} team={team} />
+        
           ))}
         </div>
       </div>
