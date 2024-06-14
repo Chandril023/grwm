@@ -9,6 +9,7 @@ const Pricing = () => {
       id="pricing"
       className="relative z-20 overflow-hidden bg-white pb-12 pt-20 dark:bg-dark lg:pb-[90px] lg:pt-[120px]"
     >
+      
       <div className="container">
         <div className="mb-[60px]">
           <SectionTitle
@@ -18,11 +19,22 @@ const Pricing = () => {
             center
           />
         </div>
-
-        <div className="-mx-4 flex flex-wrap justify-center">
+        {/* Mobile view: default grid layout */}
+        <div className="lg:hidden overflow-x-auto">
+        <div className="flex flex-no-wrap space-x-4 lg:space-x-8">
+       
+          {pricingData.map((product, i) => (
+             <div key={i} className="flex-shrink-0 w-full sm:w-80 md:w-96 lg:w-80 xl:w-96 mx-2">
+            <PricingBox key={i} product={product} />
+            </div>
+          ))}     
+        </div>
+        </div>
+          {/* Desktop view: default grid layout */}
+          <div className="hidden lg:flex -mx-4 flex-wrap justify-center">
           {pricingData.map((product, i) => (
             <PricingBox key={i} product={product} />
-          ))}     
+          ))}
         </div>
       </div>
     </section>

@@ -14,7 +14,7 @@ const teamData: TeamType[] = [
   },
   {
     id: 2,
-    name: "Jezmin uniya",
+    name: "Jezmin Uniya",
     designation: "Product Designer",
     image: "/images/team/team-02.png",
     facebookLink: "/#",
@@ -57,10 +57,21 @@ const Team = () => {
             center
           />
         </div>
+  
+        <div className="overflow-x-auto lg:hidden">
+          <div className="flex flex-nowrap">
+            {teamData.map((team, i) => (
+              <div key={i} className="flex-shrink-0 w-72 sm:w-90 -mx-0">
+                <SingleTeam team={team} />
+              </div>
+            ))}
+          </div>
+        </div>
 
-        <div className="-mx-4 flex flex-wrap justify-center">
+        <div className="hidden lg:flex flex-wrap justify-center -mx-4">
           {teamData.map((team, i) => (
-            <SingleTeam key={i} team={team} />
+              <SingleTeam team={team} />
+           
           ))}
         </div>
       </div>

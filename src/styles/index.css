@@ -75,3 +75,21 @@ body {
 .blog-details h3 {
   @apply text-dark mb-6 text-2xl font-bold dark:text-white sm:text-[28px] sm:leading-[40px];
 }
+
+
+
+/* styles.css or your custom CSS file */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+.animate-scroll {
+  animation: scroll 20s linear infinite;
+  width: max-content;
+  white-space: nowrap; /* Ensures content stays in a single line */
+  position: absolute;
+}

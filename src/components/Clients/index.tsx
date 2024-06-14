@@ -7,7 +7,9 @@ const Clients = () => {
       <div className="container px-4">
         <div className="-mx-4 flex flex-wrap items-center justify-center gap-8 xl:gap-11">
           {clientsData.map((client, i) => (
-            <SingleClient key={i} client={client} />
+            <div key={i} className="mx-2"> {/* Added mx-2 for left margin */}
+              <SingleClient client={client} />
+            </div>
           ))}
         </div>
       </div>
