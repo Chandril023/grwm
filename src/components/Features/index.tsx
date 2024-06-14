@@ -26,9 +26,9 @@ const Features = () => {
           {/* Desktop view: grid layout */}
           <div className="hidden lg:flex -mx-4 mt-12 flex flex-wrap lg:mt-20">
             {featuresData.map((feature, i) => (
-       
+                <div key={i} >
                 <SingleFeature feature={feature} />
-              
+                </div >
             ))}
           </div>
         </div>
