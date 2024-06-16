@@ -12,17 +12,12 @@ const About = () => {
             <div className="w-full px-4 lg:w-1/2">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2 className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]">
-                  Brilliant Toolkit to Build Next.js SaaS Websites.
+                Professional • Powerful • Precise
                 </h2>
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6">
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel discussions and roundtables led by subject
-                  matter experts.
+                In the digital age, having a robust online presence is paramount for businesses and individuals alike. Enter GRWM (Get Ready With Me), a company dedicated to providing on-demand website building services tailored to meet diverse client needs. Founded on the principles of accessibility, efficiency, and customization, GRWM is making waves in the industry by offering high-quality web development services that are both affordable and user-friendly.
                   <br /> <br />
-                  The main thrust is to focus on educating attendees on how to
-                  best protect highly vulnerable business applications with
-                  interactive panel.
+                  Whether you’re a startup looking to make your mark or an established business seeking to revamp your online presence, GRWM provides the tools and expertise to get ready and thrive in the digital landscape.
                 </p>
 
                 <a
@@ -62,13 +57,13 @@ const About = () => {
                   <div className="relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-primary px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8">
                     <div>
                       <span className="block text-5xl font-extrabold text-white">
-                        09
+                        5+
                       </span>
                       <span className="block text-base font-semibold text-white">
-                        We have
+                        Years of
                       </span>
                       <span className="block text-base font-medium text-white text-opacity-70">
-                        Years of experience
+                        Industry experience
                       </span>
                     </div>
                     <div>

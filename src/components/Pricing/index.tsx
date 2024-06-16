@@ -15,7 +15,7 @@ const Pricing = () => {
           <SectionTitle
             subtitle="Pricing Table"
             title="Our Pricing Plan"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            paragraph="Build your dream website with our flexible pricing plans tailored to fit every budget and requirement."
             center
           />
         </div>

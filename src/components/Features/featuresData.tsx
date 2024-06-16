@@ -17,8 +17,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "Free and Open-Source",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "Industrial Standards",
+    paragraph: "Transform your business operations with the power of top-tier integration platforms. Experience unparalleled connectivity, automation, and productivity",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -39,7 +39,7 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Modern Design",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    paragraph: "A modern design website seamlessly combines sleek aesthetics, intuitive navigation, and responsive elements to create an engaging and user-friendly experience across all devices.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -91,8 +91,8 @@ const featuresData: Feature[] = [
         />
       </svg>
     ),
-    title: "SaaS Starter Kit",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    title: "SEO Optimized",
+    paragraph: "Attract more visitors and potential customers with high-quality, optimized content.",
     btn: "Learn More",
     btnLink: "/#",
   },
@@ -125,7 +125,7 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "All Essential Integrations",
-    paragraph: "Lorem Ipsum is simply dummy text of the printing and industry.",
+    paragraph: "Unlock seamless efficiency and innovation with the essential integration platforms. Choose the best solution for your needs and watch your business thrive!.",
     btn: "Learn More",
     btnLink: "/#",
   },

@@ -5,8 +5,8 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData: Testimonial[] = [
   {
     id: 1,
-    name: "Sabo Masties",
-    designation: "Founder @ Rolex",
+    name: "Sidhanta Dutta",
+    designation: "Founder @ZQG",
     content:
       "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
     image: "/images/testimonials/author-01.png",
@@ -14,19 +14,19 @@ const testimonialData: Testimonial[] = [
   },
   {
     id: 2,
-    name: "Margin Gesmu",
-    designation: "Founder @ UI Hunter",
+    name: "Sanya Mehra",
+    designation: "Founder @ PulseDigital",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "I would highly recommend GRWM , to anyone looking for a reliable and talented team to build or upgrade their website. They deliver results with integrity and expertise, making them a valuable asset to any business looking to thrive in the digital landscape.",
     image: "/images/testimonials/author-02.png",
     star: 5,
   },
   {
     id: 3,
-    name: "William Smith",
-    designation: "Founder @ Trorex",
+    name: "Ananya Kapoorh",
+    designation: "Founder @ StellarTech",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "Their customer service is top-notch. Any questions or concerns we had were addressed promptly and professionally. The entire team showed a genuine interest in our success, and it felt like they were partners rather than just service providers",
     image: "/images/testimonials/author-03.png",
     star: 5,
   },
@@ -39,7 +39,7 @@ const Testimonials = () => {
         <SectionTitle
           subtitle="Testimonials"
           title="What our Client Say"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Discover why our clients rave about their experience with us in their own words."
           width="640px"
           center
         />

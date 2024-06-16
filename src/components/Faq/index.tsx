@@ -13,7 +13,7 @@ const Faq = () => {
       <div className="container">
         <SectionTitle
           title="FAQ"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Explore our FAQs to discover everything you need to know about building your perfect website effortlessly."
           width="640px"
           center
         />
