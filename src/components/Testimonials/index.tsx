@@ -8,7 +8,7 @@ const testimonialData: Testimonial[] = [
     name: "Sidhanta Dutta",
     designation: "Founder @ZQG",
     content:
-      "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community.",
+      "As the owner of ZQG Esports, finding a reliable and innovative web development team was crucial for us. Partnering with grwm was one of the best decisions we made. They not only understood our vision but also brought it to life in ways we hadn’t imagined.",
     image: "/images/testimonials/author-01.png",
     star: 5,
   },
@@ -23,10 +23,10 @@ const testimonialData: Testimonial[] = [
   },
   {
     id: 3,
-    name: "Ananya Kapoorh",
+    name: "Ananya Kapoor",
     designation: "Founder @ StellarTech",
     content:
-      "Their customer service is top-notch. Any questions or concerns we had were addressed promptly and professionally. The entire team showed a genuine interest in our success, and it felt like they were partners rather than just service providers",
+      "Their customer service is top-notch. Any questions or concerns we had were addressed promptly and professionally. The entire team showed a genuine interest in our success, and it felt like they were partners rather than just service providers.Highly recommended ",
     image: "/images/testimonials/author-03.png",
     star: 5,
   },

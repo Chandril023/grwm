@@ -21,25 +21,25 @@ const Faq = () => {
           <div className="w-full px-4 lg:w">
           <Accordion type="single" collapsible>
          <AccordionItem value="item-1">
-         <AccordionTrigger >Is it accessible?</AccordionTrigger>
+         <AccordionTrigger >How much does it cost?</AccordionTrigger>
          <AccordionContent>
-          Yes. It adheres to the WAI-ARIA design pattern.
+          The cost will depend upon various factors including the complexity and number of pages. Contact us to know more
          </AccordionContent>
      </AccordionItem>
         </Accordion>
         <Accordion type="single" collapsible>
       <AccordionItem value="item-1">
-    <AccordionTrigger>Is it accessible?</AccordionTrigger>
+    <AccordionTrigger>How much time does it take?</AccordionTrigger>
     <AccordionContent>
-      Yes. It adheres to the WAI-ARIA design pattern.
+    The delivery time will depend upon various factors including the complexity and number of pages.A basic 3 page website will take 3-4 days to deliver.
       </AccordionContent>
      </AccordionItem>
         </Accordion>
         <Accordion type="single" collapsible>
       <AccordionItem value="item-1">
-    <AccordionTrigger>Is it accessible?</AccordionTrigger>
+    <AccordionTrigger>Is it SEO optimized?</AccordionTrigger>
     <AccordionContent>
-      Yes. It adheres to the WAI-ARIA design pattern.
+      Yes. We adhere to the latest benchmark practices in the industry and deliver will successfully deliver to you a SEO optimzed page .
       </AccordionContent>
      </AccordionItem>
         </Accordion>

@@ -92,7 +92,7 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "SEO Optimized",
-    paragraph: "Attract more visitors and potential customers with high-quality, optimized content.",
+    paragraph: "Attract more visitors and potential customers with high-quality, optimized content.Built on the latest Next.Js javascript framework which comes with enhanced performance",
     btn: "Learn More",
     btnLink: "/#",
   },

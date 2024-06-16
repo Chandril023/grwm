@@ -25,7 +25,7 @@ const Hero = () => {
                 <ul className="mb-10 flex flex-wrap items-center justify-center gap-5">
                   <li>
                     <Link
-                      href="https://nextjstemplates.com/templates/play"
+                      href="#contact"
                       className="inline-flex items-center justify-center rounded-md bg-white px-7 py-[14px] text-center text-base font-medium text-dark shadow-1 transition duration-300 ease-in-out hover:bg-gray-2"
                     >
                       Get Started Now
@@ -33,7 +33,7 @@ const Hero = () => {
                   </li>
                   <li>
                     <Link
-                      href="https://github.com/nextjsTemplates/play-nextjs"
+                      href="https://github.com/grwm365"
                       target="_blank"
                       className="flex items-center gap-4 rounded-md bg-white/[0.12] px-6 py-[14px] text-base font-medium text-white transition duration-300 ease-in-out hover:bg-white hover:text-dark"
                     >
@@ -68,7 +68,7 @@ const Hero = () => {
                     data-wow-delay=".3s"
                   >
                     <a
-                      href="https://github.com/uideck/play-bootstrap/"
+                      href="https://getbootstrap.com/"
                       className="text-white/60 duration-300 ease-in-out hover:text-white"
                       target="_blank"
                     >
@@ -102,7 +102,7 @@ const Hero = () => {
                     </a>
 
                     <a
-                      href="https://github.com/TailGrids/play-tailwind/"
+                      href="https://tailwindcss.com/"
                       className="text-white/60 duration-300 ease-in-out hover:text-white"
                       target="_blank"
                     >
@@ -132,7 +132,7 @@ const Hero = () => {
                     </a>
 
                     <a
-                      href="https://github.com/NextJSTemplates/play-nextjs"
+                      href="https://react.dev/"
                       className="text-white/60 duration-300 ease-in-out hover:text-white"
                       target="_blank"
                     >
@@ -150,7 +150,7 @@ const Hero = () => {
                     </a>
 
                     <a
-                      href="https://github.com/TailGrids/play-astro/"
+                      href="https://angular.dev/"
                       className="text-white/60 duration-300 ease-in-out hover:text-white"
                       target="_blank"
                     >
@@ -179,7 +179,7 @@ const Hero = () => {
                     </a>
 
                     <a
-                      href="https://github.com/NextJSTemplates/play-nextjs"
+                      href="https://nextjs.org/"
                       className="text-white/60 duration-300 ease-in-out hover:text-white"
                       target="_blank"
                     >

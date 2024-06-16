@@ -33,7 +33,7 @@ const Contact = () => {
                       Based In
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      Sector V , Kolkata-91
+                      Sector V, Salt Lake, Kolkata-700091
                     </p>
                   </div>
                 </div>
@@ -53,9 +53,10 @@ const Contact = () => {
                       How Can We Help?
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                    getreadywithme0706@gmail.com
-                    9163047111
+                    help.grwm@gmail.com   
+                   
                     </p>
+                    <p className="text-base text-body-color dark:text-dark-6"> 9163047111</p>
                     <p className="mt-1 text-base text-body-color dark:text-dark-6">
                       
                     </p>
@@ -84,7 +85,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="fullName"
-                    placeholder="Adam Gelius"
+                    placeholder="eg. Swapnendu Das"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
@@ -112,7 +113,7 @@ const Contact = () => {
                   <input
                     type="text"
                     name="phone"
-                    placeholder="+885 1254 5211 552"
+                    placeholder="+91 9903787861"
                     className="w-full border-0 border-b border-[#f1f1f1] bg-transparent pb-3 text-dark placeholder:text-body-color/60 focus:border-primary focus:outline-none dark:border-dark-3 dark:text-white"
                   />
                 </div>
